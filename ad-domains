@@ -1,6 +1,7 @@
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 events.hotjar.io
+0.0.0.0 mouseflow.com
 0.0.0.0 api.mouseflow.com
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
