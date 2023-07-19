@@ -1,5 +1,5 @@
 # Title: ad-list - Main
-# Last Modified: 08.04.2023
+# Last Modified: 19.07.2023
 # Licence: Public Domain
 # URL: https://raw.githubusercontent.com/SammyTV9825/pihole-domain-lists/main/ad-list
 
@@ -99,6 +99,7 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 api.mouseflow.com
 0.0.0.0 tools.mouseflow.com
+0.0.0.0 gtm.mouseflow.com
 ####
 0.0.0.0 clicktale.net
 0.0.0.0 fullstory.com
