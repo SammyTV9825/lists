@@ -8,3 +8,9 @@ https://raw.githubusercontent.com/SammyTV9825/lists/main/pihole-domain-allow-lis
 
 uBlock Custom Filter:<br>
 https://raw.githubusercontent.com/SammyTV9825/lists/main/ublock-custom-filter<br>
+
+TV:<br>
+https://raw.githubusercontent.com/SammyTV9825/lists/main/tv.m3u<br>
+
+Radio:<br>
+https://raw.githubusercontent.com/SammyTV9825/lists/main/radio.m3u<br>
