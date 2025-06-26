@@ -92,8 +92,6 @@ rtsp://10.3.1.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=
 #EXTINF:0,tagesschau24 HD
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1221,1222,1223,1224,1226,1227,1228,2171
-
-
 #EXTINF:0,Regio TV Stuttgart HD
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,7680,7681,7682,7689
