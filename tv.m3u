@@ -89,9 +89,6 @@ rtsp://10.3.1.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=
 #EXTINF:0,euronews
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,2601,2602
-#EXTINF:0,DF1 HD
-#EXTVLCOPT:network-caching=1000
-rtsp://10.3.1.1:554/?avm=1&freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6771,6772
 #EXTINF:0,WDR HD Köln
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5500,5501,2171,2370,2376,5502,5503,5504,5505,5507
@@ -122,15 +119,6 @@ rtsp://10.3.1.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=
 #EXTINF:0,SWR BW HD
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,7300,7301,5127,7303,7304,7305,7306,7307,7308,7309
-#EXTINF:0,HSE HD
-#EXTVLCOPT:network-caching=1000
-rtsp://10.3.1.1:554/?avm=1&freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,6791,6792,6794,6796
-#EXTINF:0,QVC2 HD
-#EXTVLCOPT:network-caching=1000
-rtsp://10.3.1.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,1561,1562,1566
-#EXTINF:0,QVC Style HD
-#EXTVLCOPT:network-caching=1000
-rtsp://10.3.1.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,1691,1692,1696
 #EXTINF:0,ZDFinfo HD
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6700,6710,6720,6721,6723,6730,6731,6770,6771,6772
