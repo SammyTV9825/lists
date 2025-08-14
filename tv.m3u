@@ -17,7 +17,7 @@ rtsp://10.3.1.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/vox.png",VOX
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,1701,1700,1702,1704,1706,1707,1708
-#EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/kabeleins.png",kabel eins
+#EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/kabel1.png",kabel eins
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2301,2302,2304,2306
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/rtlzwei.png",RTLZWEI
@@ -44,9 +44,6 @@ rtsp://10.3.1.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/kabel_eins_doku.png",kabel eins Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,1511,1512,1514,1516
-#EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/zdf_neo.png",zdf_neo
-#EXTVLCOPT:network-caching=1000
-rtsp://10.3.1.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690,691,692
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/nitro.png",NITRO
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,981,980,982,984,986,987,988
@@ -68,7 +65,7 @@ rtsp://10.3.1.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/rtl_up.png",RTLup
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,2411,2412,2414,2416,2417,2418
-#EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/vox_up.png",VOXup
+#EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/voxup.png",VOXup
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,811,812,814,816,817,818
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/sport1.png",SPORT1
@@ -86,7 +83,7 @@ rtsp://10.3.1.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png",euronews
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,2601,2602
-#EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/wdr_hd_koeln.png",WDR HD Köln
+#EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd.png",WDR HD Köln
 #EXTVLCOPT:network-caching=1000
 rtsp://10.3.1.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5500,5501,2171,2370,2376,5502,5503,5504,5505,5507
 #EXTINF:0 tvg-logo="https://tv.avm.de/tvapp/logos/hr_fernsehen_hd.png",hr-fernsehen HD
